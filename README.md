@@ -24,6 +24,6 @@ I am puting a list below:
 - Data Science Workshop
   + intro to github
   + intro to Rstudio
-- let's go
+- let's go...
   
 [this is a link](https://github.com/stangotcodeheart/stangotcodeheart/edit/main/README.md)

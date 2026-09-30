@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Stan, I am an imperial postgraduate student doing statistics.
+I am Stan, I am an imperial postgraduate student doing statistics [Imperial MSc in Statistics](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics/).
 
 I studied mathematics with statistics in imperial as an undergraduate student.
 

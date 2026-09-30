@@ -29,3 +29,6 @@ I am puting a list below:
 - let's go...
   
 [this is a link](https://github.com/stangotcodeheart/stangotcodeheart/edit/main/README.md)
+
+------
+last updated: 2024-09-31

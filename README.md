@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 I am Stan, I am an imperial postgraduate student doing statistics.
 
+I studied mathematics with statistics in imperial as an undergraduate student.
+
 I like music, racing cars, video games outside of statistics.
 
 I am puting a list below:
